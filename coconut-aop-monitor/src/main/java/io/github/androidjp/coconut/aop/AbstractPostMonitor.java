@@ -1,4 +1,4 @@
-package com.jpuneng.coconut.aop;
+package io.github.androidjp.coconut.aop;
 
 import lombok.extern.slf4j.Slf4j;
 import org.apache.commons.lang3.exception.ExceptionUtils;

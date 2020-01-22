@@ -1,4 +1,4 @@
-package com.jpuneng.coconut.aop;
+package io.github.androidjp.coconut.aop;
 
 import org.apache.commons.collections.CollectionUtils;
 import org.aspectj.lang.ProceedingJoinPoint;
@@ -26,7 +26,7 @@ public class MonitoringAspect implements ApplicationContextAware {
 
     private ApplicationContext applicationContext;
 
-    @Around("@annotation(Monitoring)")
+    @Around("@annotation(io.github.androidjp.coconut.aop.Monitoring)")
     public Object duringMethod(ProceedingJoinPoint joinPoint) throws Exception {
         long curTimeStamp = System.currentTimeMillis();
         // 先收集我们要调的monitor，到一个array

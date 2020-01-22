@@ -1,4 +1,4 @@
-package com.jpuneng.coconut.cmn.constant;
+package io.github.androidjp.coconut.cmn.constant;
 
 /**
  * @author Jasper Wu

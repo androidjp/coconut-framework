@@ -1,4 +1,4 @@
-package com.jpuneng.coconut.cmn.exception;
+package io.github.androidjp.coconut.cmn.exception;
 
 import com.alibaba.fastjson.JSONObject;
 import lombok.Builder;

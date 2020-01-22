@@ -1,11 +1,11 @@
-package com.jpuneng.coconut.util;
+package io.github.androidjp.coconut.util;
 
 import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.JSONArray;
 import com.alibaba.fastjson.JSONException;
 import com.alibaba.fastjson.JSONObject;
 import com.alibaba.fastjson.serializer.SerializerFeature;
-import com.jpuneng.coconut.cmn.exception.JsonValidationException;
+import io.github.androidjp.coconut.cmn.exception.JsonValidationException;
 import org.springframework.util.StringUtils;
 
 import java.util.ArrayList;
