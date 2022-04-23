@@ -46,7 +46,7 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <coconut.framework.version>1.0.0</coconut.framework.version>
         <mockito.version>3.2.4</mockito.version>
-        <spring-version>5.2.3.RELEASE</spring-version>
+        <spring-version>5.3.19</spring-version>
         <spring-boot.version>2.2.3.RELEASE</spring-boot.version>
         <junit.version>4.12</junit.version>
         <logback.version>1.2.3</logback.version>
