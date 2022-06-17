@@ -55,7 +55,7 @@
         <toolkit.common.lang.version>1.0</toolkit.common.lang.version>
         <jakarta.commons.beanutils.version>1.9.4</jakarta.commons.beanutils.version>
         <lombok.version>1.18.10</lombok.version>
-        <fastjson.version>1.2.62</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
         <aspectj.version>1.9.5</aspectj.version>
     </properties>
 
